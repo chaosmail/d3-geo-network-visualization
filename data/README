@@ -1,0 +1,93 @@
+Bibliometric dataset for AESEAN countries, prepared from WebOfScience data.
+
+Contents
+========
+
+countries.csv: The ASEAN countries with ISO 3166 country codes.
+
+subject_classes.csv: The hierarchy of subject classes (3 levels) with ids and English names.
+
+The actual data are (filenames with line count prepended):
+
+1) record locations::
+
+  669414 52_records.csv
+  237403 52_records_asean.csv
+
+2) aggregated data::
+
+      13 52_asean_group_by_id0.csv
+     247 52_asean_group_by_id0_id1.csv
+     872 52_asean_group_by_id0_id1_id2.csv
+    9012 52_asean_group_by_id0_id1_subfield.csv
+    1970 52_asean_group_by_id0_id1_year.csv
+    1599 52_asean_group_by_id0_subfield.csv
+     161 52_asean_group_by_id0_year.csv
+
+3) links between cities or regions (aggregated data, optional)::
+
+    9273 52_asean_city_city_links_unweighted.csv
+    4095 52_asean_id1_id1_links_unweighted.csv
+   18713 52_asean_id1_id1_links_unweighted_grouped_by_subfield.csv
+
+
+('52' is our internal study_identifier.)
+
+
+CSV format parameters
+---------------------
+
+  * row separated by: NEWLINE (0x0a)
+  * fields separated by: TAB (0x09)
+  * fields enclosed by: (nothing)
+  * character encoding: UTF-8
+  * 1st row is CSV header
+
+
+main table: 52_records_asean.csv
+--------------------------------
+
+Contains one row for each record (= data object describing a publication)
+and for each organization involved in this publication.
+Some attributed describe the publication, others the geolocation
+of the organization:
+
+
+     Column      |          Type          | Description
+-----------------+------------------------+------------------------------------------
+ id              | integer                | unique record id
+ id_wos          | character varying(20)  | unique record id (WebOfScience)
+ year            | smallint               | publication year
+ id_subfield     | character varying(10)  | references subfield in subject_classes.csv
+ timescited_corr | real                   | how often was the publication cited? (corrected value)
+ citable         | boolean                | is the publication citable (excludes editorials and alike)
+ cc              | character(2)           | country code
+ admin1          | character varying(100) | administrative code of subregion within a country; from geonames
+ geoname_id      | integer                | geonames id of a city; here appear only populated places 'P.PPL' from geonames (http://www.geonames.org/)
+ name_int        | character varying(200) | English name of the city
+ gadm_id_0       | integer                | gadm 2.0 id_0 (country id)
+ gadm_id_1       | integer                | gadm 2.0 id_1 (admin1 id, i.e., administrative regions 1 level below country level)
+ gadm_id_2       | integer                | gadm 2.0 id_1 (admin2 id, .e., administrative regions 1 level below admin1 level)
+
+
+(52_records_asean.csv is filtered from 52_records.csv
+for ASEAN countries and has gadm_id_* added.)
+
+
+aggregations
+------------
+
+For ease of use tables 52_asean_group_by_* contain aggregated data from 52_records_asean.csv .
+
+Column 'n' has the count of distinct publications.
+
+
+links
+-----
+
+Tables 52_asean_*links*.csv contain links between any two locations
+(either cities or admin1 (gadm level 1) regions)
+(full matrix without diagonal elements; symmetric elements not removed)
+and an (unweighted) count of distinct publications with
+author(s) affiliated to organizations in each of both locations.
+

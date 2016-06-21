@@ -1,0 +1,177 @@
+id_area	id_field	id_subfield	subfield	field	area
+5	11	5	Forestry	Agriculture, Fisheries & Forestry	Applied Sciences
+5	11	6	Horticulture	Agriculture, Fisheries & Forestry	Applied Sciences
+5	11	7	Veterinary Sciences	Agriculture, Fisheries & Forestry	Applied Sciences
+5	10	8	Architecture	Built Environment & Design	Applied Sciences
+5	10	9	Building & Construction	Built Environment & Design	Applied Sciences
+5	10	10	Design Practice & Management	Built Environment & Design	Applied Sciences
+5	10	11	Urban & Regional Planning	Built Environment & Design	Applied Sciences
+5	4	12	Bioinformatics	Enabling & Strategic Technologies	Applied Sciences
+5	4	15	Materials	Enabling & Strategic Technologies	Applied Sciences
+5	4	16	Nanoscience & Nanotechnology	Enabling & Strategic Technologies	Applied Sciences
+5	4	17	Optoelectronics & Photonics	Enabling & Strategic Technologies	Applied Sciences
+5	4	18	Strategic, Defence & Security Studies	Enabling & Strategic Technologies	Applied Sciences
+5	14	19	Aerospace & Aeronautics	Engineering	Applied Sciences
+5	14	20	Automobile Design & Engineering	Engineering	Applied Sciences
+5	4	14	Energy	Enabling & Strategic Technologies	Applied Sciences
+5	14	22	Chemical Engineering	Engineering	Applied Sciences
+5	14	24	Electrical & Electronic Engineering	Engineering	Applied Sciences
+5	14	27	Industrial Engineering & Automation	Engineering	Applied Sciences
+5	14	28	Mechanical Engineering & Transports	Engineering	Applied Sciences
+5	14	30	Operations Research	Engineering	Applied Sciences
+4	12	88	Developmental Biology	Biomedical Research	Health Sciences
+5	19	31	Artificial Intelligence & Image Processing	Information & Communication Technologies	Applied Sciences
+5	19	32	Computation Theory & Mathematics	Information & Communication Technologies	Applied Sciences
+5	19	33	Computer Hardware & Architecture	Information & Communication Technologies	Applied Sciences
+5	19	34	Distributed Computing	Information & Communication Technologies	Applied Sciences
+5	19	35	Information Systems	Information & Communication Technologies	Applied Sciences
+5	19	36	Medical Informatics	Information & Communication Technologies	Applied Sciences
+5	19	37	Networking & Telecommunications	Information & Communication Technologies	Applied Sciences
+5	19	38	Software Engineering	Information & Communication Technologies	Applied Sciences
+6	13	39	Communication & Media Studies	Communication & Textual Studies	Arts & Humanities
+6	13	40	Languages & Linguistics	Communication & Textual Studies	Arts & Humanities
+6	13	41	Literary Studies	Communication & Textual Studies	Arts & Humanities
+6	17	42	Anthropology	Historical Studies	Arts & Humanities
+6	17	43	Archaeology	Historical Studies	Arts & Humanities
+6	17	44	Classics	Historical Studies	Arts & Humanities
+6	17	45	History	Historical Studies	Arts & Humanities
+6	17	46	History of Science, Technology & Medicine	Historical Studies	Arts & Humanities
+1	18	68	Criminology	Social Sciences	Economic & Social Sciences
+5	14	21	Biomedical Engineering	Engineering	Applied Sciences
+5	4	13	Biotechnology	Enabling & Strategic Technologies	Applied Sciences
+5	14	23	Civil Engineering	Engineering	Applied Sciences
+5	14	25	Environmental Engineering	Engineering	Applied Sciences
+5	14	29	Mining & Metallurgy	Engineering	Applied Sciences
+6	15	54	Folklore	Visual & Performing Arts	Arts & Humanities
+6	17	47	History of Social Sciences	Historical Studies	Arts & Humanities
+6	17	48	Paleontology	Historical Studies	Arts & Humanities
+6	9	50	Philosophy	Philosophy & Theology	Arts & Humanities
+6	9	51	Religions & Theology	Philosophy & Theology	Arts & Humanities
+6	15	52	Art Practice, History & Theory	Visual & Performing Arts	Arts & Humanities
+6	15	53	Drama & Theater	Visual & Performing Arts	Arts & Humanities
+4	12	87	Biophysics	Biomedical Research	Health Sciences
+6	15	55	Music	Visual & Performing Arts	Arts & Humanities
+1	8	56	Accounting	Economics & Business 	Economic & Social Sciences
+1	8	57	Agricultural Economics & Policy	Economics & Business 	Economic & Social Sciences
+4	12	94	Physiology	Biomedical Research	Health Sciences
+1	8	58	Business & Management	Economics & Business 	Economic & Social Sciences
+1	8	59	Development Studies	Economics & Business 	Economic & Social Sciences
+1	8	60	Econometrics 	Economics & Business 	Economic & Social Sciences
+1	8	61	Economic Theory	Economics & Business 	Economic & Social Sciences
+1	8	62	Economics	Economics & Business 	Economic & Social Sciences
+1	8	63	Finance	Economics & Business 	Economic & Social Sciences
+1	8	64	Industrial Relations	Economics & Business 	Economic & Social Sciences
+1	8	65	Logistics & Transportation	Economics & Business 	Economic & Social Sciences
+4	6	111	Immunology	Clinical Medicine	Health Sciences
+1	8	66	Marketing	Economics & Business 	Economic & Social Sciences
+1	8	67	Sport, Leisure & Tourism	Economics & Business 	Economic & Social Sciences
+1	18	69	Cultural Studies	Social Sciences	Economic & Social Sciences
+4	12	95	Toxicology	Biomedical Research	Health Sciences
+1	18	70	Demography	Social Sciences	Economic & Social Sciences
+1	18	71	Education	Social Sciences	Economic & Social Sciences
+1	18	72	Family Studies	Social Sciences	Economic & Social Sciences
+1	18	73	Gender Studies	Social Sciences	Economic & Social Sciences
+1	18	74	Geography	Social Sciences	Economic & Social Sciences
+1	18	75	Information & Library Sciences	Social Sciences	Economic & Social Sciences
+1	18	76	International Relations	Social Sciences	Economic & Social Sciences
+1	18	77	Law	Social Sciences	Economic & Social Sciences
+4	6	121	Pediatrics	Clinical Medicine	Health Sciences
+1	18	78	Political Science & Public Administration	Social Sciences	Economic & Social Sciences
+1	18	79	Science Studies	Social Sciences	Economic & Social Sciences
+1	18	80	Social Sciences Methods	Social Sciences	Economic & Social Sciences
+1	18	81	Social Work	Social Sciences	Economic & Social Sciences
+1	18	82	Sociology	Social Sciences	Economic & Social Sciences
+2	22	83	General Science & Technology	General Science & Technology	General
+2	3	84	General Arts, Humanities & Social Sciences	General Arts, Humanities & Social Sciences	General
+4	12	85	Anatomy & Morphology	Biomedical Research	Health Sciences
+4	12	86	Biochemistry & Molecular Biology	Biomedical Research	Health Sciences
+4	12	89	Genetics & Heredity	Biomedical Research	Health Sciences
+4	12	90	Microbiology	Biomedical Research	Health Sciences
+4	12	91	Microscopy	Biomedical Research	Health Sciences
+4	12	92	Mycology & Parasitology	Biomedical Research	Health Sciences
+4	12	93	Nutrition & Dietetics	Biomedical Research	Health Sciences
+4	12	96	Virology	Biomedical Research	Health Sciences
+4	6	97	Allergy	Clinical Medicine	Health Sciences
+4	6	98	Anesthesiology	Clinical Medicine	Health Sciences
+3	7	151	Zoology	Biology	Natural Sciences
+4	6	99	Arthritis & Rheumatology	Clinical Medicine	Health Sciences
+4	6	100	Cardiovascular System & Hematology	Clinical Medicine	Health Sciences
+4	6	101	Complementary & Alternative Medicine	Clinical Medicine	Health Sciences
+4	6	102	Dentistry	Clinical Medicine	Health Sciences
+4	6	103	Dermatology & Venereal Diseases	Clinical Medicine	Health Sciences
+4	6	104	Emergency & Critical Care Medicine	Clinical Medicine	Health Sciences
+3	7	145	Ecology	Biology	Natural Sciences
+4	6	109	General Clinical Medicine	Clinical Medicine	Health Sciences
+4	6	105	Endocrinology & Metabolism	Clinical Medicine	Health Sciences
+4	1	137	Epidemiology	Public Health & Health Services	Health Sciences
+4	6	106	Environmental & Occupational Health	Clinical Medicine	Health Sciences
+5	11	2	Dairy & Animal Science	Agriculture, Fisheries & Forestry	Applied Sciences
+4	6	107	Gastroenterology & Hepatology	Clinical Medicine	Health Sciences
+4	6	108	General & Internal Medicine	Clinical Medicine	Health Sciences
+4	6	110	Geriatrics	Clinical Medicine	Health Sciences
+4	6	113	Neurology & Neurosurgery	Clinical Medicine	Health Sciences
+4	6	114	Nuclear Medicine & Medical Imaging	Clinical Medicine	Health Sciences
+4	6	115	Obstetrics & Reproductive Medicine	Clinical Medicine	Health Sciences
+4	6	116	Oncology & Carcinogenesis	Clinical Medicine	Health Sciences
+4	6	118	Orthopedics	Clinical Medicine	Health Sciences
+4	6	128	Urology & Nephrology	Clinical Medicine	Health Sciences
+4	6	119	Otorhinolaryngology	Clinical Medicine	Health Sciences
+4	6	120	Pathology	Clinical Medicine	Health Sciences
+4	6	123	Psychiatry	Clinical Medicine	Health Sciences
+4	6	124	Respiratory System	Clinical Medicine	Health Sciences
+4	6	125	Sport Sciences	Clinical Medicine	Health Sciences
+4	6	126	Surgery	Clinical Medicine	Health Sciences
+4	6	127	Tropical Medicine	Clinical Medicine	Health Sciences
+4	1	138	Gerontology	Public Health & Health Services	Health Sciences
+4	16	129	Behavioral Science & Comparative Psychology	Psychology & Cognitive Sciences	Health Sciences
+4	16	130	Clinical Psychology	Psychology & Cognitive Sciences	Health Sciences
+4	16	131	Developmental & Child Psychology	Psychology & Cognitive Sciences	Health Sciences
+4	16	132	Experimental Psychology	Psychology & Cognitive Sciences	Health Sciences
+4	16	133	General Psychology & Cognitive Sciences	Psychology & Cognitive Sciences	Health Sciences
+4	16	134	Human Factors	Psychology & Cognitive Sciences	Health Sciences
+4	16	135	Psychoanalysis	Psychology & Cognitive Sciences	Health Sciences
+4	16	136	Social Psychology	Psychology & Cognitive Sciences	Health Sciences
+3	20	158	Polymers	Chemistry	Natural Sciences
+4	1	139	Health Policy & Services	Public Health & Health Services	Health Sciences
+4	1	140	Nursing	Public Health & Health Services	Health Sciences
+4	1	141	Public Health	Public Health & Health Services	Health Sciences
+4	1	142	Rehabilitation	Public Health & Health Services	Health Sciences
+4	1	143	Speech-Language Pathology & Audiology	Public Health & Health Services	Health Sciences
+4	1	144	Substance Abuse	Public Health & Health Services	Health Sciences
+3	7	146	Entomology	Biology	Natural Sciences
+3	7	147	Evolutionary Biology	Biology	Natural Sciences
+3	7	148	Marine Biology & Hydrobiology	Biology	Natural Sciences
+5	11	1	Agronomy & Agriculture	Agriculture, Fisheries & Forestry	Applied Sciences
+5	14	26	Geological & Geomatics Engineering	Engineering	Applied Sciences
+3	7	150	Plant Biology & Botany	Biology	Natural Sciences
+3	20	152	Analytical Chemistry	Chemistry	Natural Sciences
+3	20	153	General Chemistry	Chemistry	Natural Sciences
+3	20	154	Inorganic & Nuclear Chemistry	Chemistry	Natural Sciences
+3	20	155	Medicinal & Biomolecular Chemistry	Chemistry	Natural Sciences
+5	11	3	Fisheries	Agriculture, Fisheries & Forestry	Applied Sciences
+5	11	4	Food Science	Agriculture, Fisheries & Forestry	Applied Sciences
+3	20	156	Organic Chemistry	Chemistry	Natural Sciences
+3	20	157	Physical Chemistry	Chemistry	Natural Sciences
+3	21	159	Environmental Sciences	Earth & Environmental Sciences	Natural Sciences
+3	21	160	Geochemistry & Geophysics	Earth & Environmental Sciences	Natural Sciences
+3	5	165	General Mathematics	Mathematics & Statistics	Natural Sciences
+3	21	161	Geology	Earth & Environmental Sciences	Natural Sciences
+3	21	162	Meteorology & Atmospheric Sciences	Earth & Environmental Sciences	Natural Sciences
+3	21	163	Oceanography	Earth & Environmental Sciences	Natural Sciences
+3	5	164	Applied Mathematics	Mathematics & Statistics	Natural Sciences
+3	5	166	Numerical & Computational Mathematics	Mathematics & Statistics	Natural Sciences
+3	5	167	Statistics & Probability	Mathematics & Statistics	Natural Sciences
+3	2	168	Acoustics	Physics & Astronomy	Natural Sciences
+3	2	169	Applied Physics	Physics & Astronomy	Natural Sciences
+3	2	170	Astronomy & Astrophysics	Physics & Astronomy	Natural Sciences
+3	2	171	Chemical Physics	Physics & Astronomy	Natural Sciences
+3	2	172	Fluids & Plasmas	Physics & Astronomy	Natural Sciences
+3	7	149	Ornithology	Biology	Natural Sciences
+3	2	173	General Physics	Physics & Astronomy	Natural Sciences
+3	2	174	Mathematical Physics	Physics & Astronomy	Natural Sciences
+3	2	175	Nuclear & Particles Physics	Physics & Astronomy	Natural Sciences
+3	2	176	Optics	Physics & Astronomy	Natural Sciences
+6	9	49	Applied Ethics	Philosophy & Theology	Arts & Humanities
+4	6	112	Legal & Forensic Medicine	Clinical Medicine	Health Sciences
+4	6	117	Ophthalmology & Optometry	Clinical Medicine	Health Sciences
+4	6	122	Pharmacology & Pharmacy	Clinical Medicine	Health Sciences

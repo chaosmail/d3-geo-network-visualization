@@ -1,0 +1,30 @@
+{
+  "name": "vis",
+  "version": "1.0.0",
+  "description": "Vis project 2016",
+  "main": "index.html",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-ui-grid": "~3.1.1",
+    "angular-ui-layout": "^1.4.2",
+    "angularjs-slider": "^2.13.0",
+    "bootstrap": "^3.3.6",
+    "d3": "^3.5.16",
+    "queue-async": "^1.2.1",
+    "topojson": "^1.6.24",
+    "angular-aria": "~1.5.5",
+    "angular-animate": "~1.5.5",
+    "angular-material": "~1.1.0-rc4-master-06e7e99"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vis",
+    "d3",
+    "visualization"
+  ],
+  "author": "Christoph Koerner",
+  "license": "MIT"
+}
